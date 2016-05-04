@@ -1,0 +1,37 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+
+.column {
+    font-size: 80px;
+    padding-top: 80px;
+}
+
+.headbar {
+	background-color: navy;
+	color: white;
+	text-align: center;
+    font-family: Lato, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.startbtn {
+	text-align: center;
+}
+
+#results {
+    text-align: left;
+    font-size: 40px;
+}
+
+#right {
+    color: green;
+}
+
+#wrong {
+    color: red;
+}
+
+.instructions {
+	text-align: center;
+}
